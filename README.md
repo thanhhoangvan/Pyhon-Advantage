@@ -1,4 +1,44 @@
-# Python Advantage
+# Python Practice
 
-## Algorithms Practice
-- Knapsack problem [In Process]
+## Algorithms Practice ([ref: The Algorithms](https://the-algorithms.com/language/python))
+- Knapsack - Bài toán cái túi [In Process]
+- Audio Filters - Bộ lọc âm thanh
+- Backtracking - Bài toán quay lui
+- Bit Manipulation - Thao tác BIT
+- Blockchain - Chuỗi khối
+- Boolean Algebra - Đại số Boolean
+- Cellular Automata
+- Ciphers - Mật mã
+- Compression - Thuật toán nén
+- Computer Vision - Thị giác máy tính
+- Conversions - Chuyển đổi
+- Data Structures - Các cấu trúc dữ liệu
+- Digital Image Processing - Xử lý ảnh
+- Divide And Conquer
+- Dynamic Programming - Thuật toán quy hoạch động
+- Electronics
+- File Transfer - Truyền tập tin
+- Financial - Tài chính
+- Fractals
+- Fuzzy Logic
+- Genetic Algorithm
+- Geodesy - Hình học
+- Graphics - Đồ hoạ
+- Graphs - Đồ thị
+- Greedy Methods
+- Hashing
+- Linear Algebra - Đại số tuyến tính
+- Machine Learning - Máy học
+- Math - Toán học
+- Matrix - Ma trận
+- Neural Network - Mạng thần kinh
+- Numerical Analysis - Giải tích số
+- Others
+- Physics - Vật lý
+- Quantum - Lượng tử
+- Scheduling - Lập kế hoạch
+- Scripts
+- Searches - Tìm kiếm
+- Sorts - Sắp xếp
+- Strings - Chuỗi
+- Web Programming - Lập trình web

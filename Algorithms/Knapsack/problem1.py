@@ -5,6 +5,8 @@ Bài xếp ba lô dạng 0-1
 - Balo chứa được tối đa trọng lượng MaxW.
 - Chọn các đồ vật xếp vào balo sao cho không quá MaxW và
 có tổng giá trị là lớn nhất.
+- Các đồ vật chỉ có thể được chọn hoặc không, không được
+phép chia nhỏ.
 """
 
 def knapsack():
